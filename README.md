@@ -1,6 +1,6 @@
-# Attenzia: Cognito Auth & S3 Upload Portal
+# : Cognito Auth & S3 Upload Portal
 
-Attenzia is a modern React + Vite application that demonstrates custom (in-app) AWS Cognito authentication and secure, direct file uploads from the browser to Amazon S3 using pre-signed URLs. No files are sent to your backend—only metadata is exchanged to obtain the upload URL.
+ is a modern React + Vite application that demonstrates custom (in-app) AWS Cognito authentication and secure, direct file uploads from the browser to Amazon S3 using pre-signed URLs. No files are sent to your backend—only metadata is exchanged to obtain the upload URL.
 
 ## Features
 
@@ -10,9 +10,9 @@ Attenzia is a modern React + Vite application that demonstrates custom (in-app) 
 - **Protected Dashboard**: Only authenticated users can access the upload dashboard.
 - **Modern UI**: Built with Tailwind CSS and React Router DOM for a clean, responsive experience.
 
-# Attenzia: Cognito Auth & S3 Upload Portal
+# : Cognito Auth & S3 Upload Portal
 
-Attenzia is a modern React + Vite application that demonstrates custom (in-app) AWS Cognito authentication and secure, direct file uploads from the browser to Amazon S3 using pre-signed URLs. No file data is sent to your backend—only metadata is exchanged to obtain the upload URL.
+ is a modern React + Vite application that demonstrates custom (in-app) AWS Cognito authentication and secure, direct file uploads from the browser to Amazon S3 using pre-signed URLs. No file data is sent to your backend—only metadata is exchanged to obtain the upload URL.
 
 ## Features
 
