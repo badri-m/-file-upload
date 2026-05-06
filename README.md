@@ -113,5 +113,4 @@ src/
 - All authentication is handled in-app with custom React pages.
 
 ---
-
-**Attenzia** is a proof-of-concept for secure, user-friendly file uploads with AWS Cognito and S3. Fork, adapt, and use for your own projects!
+is a proof-of-concept for secure, user-friendly file uploads with AWS Cognito and S3. Fork, adapt, and use for your own projects!
